@@ -8,7 +8,10 @@ for (var i = 0; i < VDDC.length; ++i) {
     var cVDDC = VDDC[i];
 
     // remove HTML tags
-    cVDDC.text = cVDDC.text.replace(/<\/?[^>]+(>|$)/g, "").replace(/\*/g, "");
+    cVDDC.text = cVDDC.text
+        .replace(/<\/?[^>]+(>|$)/g, " ")
+        .replace(/\*/g, "")
+        .replace(/  /g, " ");
 }
 
 // write the fixed json
