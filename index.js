@@ -50,7 +50,7 @@ for (var i = 0; i < csvData.length; ++i) {
             console.log ("Writing " + cDataObj.file + ".json ...");
 
             // write file
-            Fs.writeFileSync(PATHS.json + cDataObj.file + ".json", JSON.stringify (response, null, 2));
+            Fs.writeFileSync(PATHS.json + cDataObj.file + ".json", JSON.stringify (response, null, 4));
         });
     })(csvData[i]);
 }
