@@ -1,266 +1,266 @@
 [
     {
-        "numar": "1",
-        "carte": "Geneza"
+        "id": "1",
+        "book": "Geneza"
     },
     {
-        "numar": "2",
-        "carte": "Exodul"
+        "id": "2",
+        "book": "Exodul"
     },
     {
-        "numar": "3",
-        "carte": "Leviticul"
+        "id": "3",
+        "book": "Leviticul"
     },
     {
-        "numar": "4",
-        "carte": "Numeri"
+        "id": "4",
+        "book": "Numeri"
     },
     {
-        "numar": "5",
-        "carte": "Deuteronomul"
+        "id": "5",
+        "book": "Deuteronomul"
     },
     {
-        "numar": "6",
-        "carte": "Iosua"
+        "id": "6",
+        "book": "Iosua"
     },
     {
-        "numar": "7",
-        "carte": "Judecători"
+        "id": "7",
+        "book": "Judecători"
     },
     {
-        "numar": "8",
-        "carte": "Rut"
+        "id": "8",
+        "book": "Rut"
     },
     {
-        "numar": "9",
-        "carte": "1 Samuel"
+        "id": "9",
+        "book": "1 Samuel"
     },
     {
-        "numar": "10",
-        "carte": "2 Samuel"
+        "id": "10",
+        "book": "2 Samuel"
     },
     {
-        "numar": "11",
-        "carte": "1 Împăraţi"
+        "id": "11",
+        "book": "1 Împăraţi"
     },
     {
-        "numar": "12",
-        "carte": "2 Împăraţi"
+        "id": "12",
+        "book": "2 Împăraţi"
     },
     {
-        "numar": "13",
-        "carte": "1 Cronici"
+        "id": "13",
+        "book": "1 Cronici"
     },
     {
-        "numar": "14",
-        "carte": "2 Cronici"
+        "id": "14",
+        "book": "2 Cronici"
     },
     {
-        "numar": "15",
-        "carte": "Ezra"
+        "id": "15",
+        "book": "Ezra"
     },
     {
-        "numar": "16",
-        "carte": "Neemia"
+        "id": "16",
+        "book": "Neemia"
     },
     {
-        "numar": "17",
-        "carte": "Estera"
+        "id": "17",
+        "book": "Estera"
     },
     {
-        "numar": "18",
-        "carte": "Iov"
+        "id": "18",
+        "book": "Iov"
     },
     {
-        "numar": "19",
-        "carte": "Psalmii"
+        "id": "19",
+        "book": "Psalmii"
     },
     {
-        "numar": "20",
-        "carte": "Proverbe"
+        "id": "20",
+        "book": "Proverbe"
     },
     {
-        "numar": "21",
-        "carte": "Eclesiastul"
+        "id": "21",
+        "book": "Eclesiastul"
     },
     {
-        "numar": "22",
-        "carte": "Cântarea cântărilor"
+        "id": "22",
+        "book": "Cântarea cântărilor"
     },
     {
-        "numar": "23",
-        "carte": "Isaia"
+        "id": "23",
+        "book": "Isaia"
     },
     {
-        "numar": "24",
-        "carte": "Ieremia"
+        "id": "24",
+        "book": "Ieremia"
     },
     {
-        "numar": "25",
-        "carte": "Plângerile lui Ieremia"
+        "id": "25",
+        "book": "Plângerile lui Ieremia"
     },
     {
-        "numar": "26",
-        "carte": "Ezechiel"
+        "id": "26",
+        "book": "Ezechiel"
     },
     {
-        "numar": "27",
-        "carte": "Daniel"
+        "id": "27",
+        "book": "Daniel"
     },
     {
-        "numar": "28",
-        "carte": "Osea"
+        "id": "28",
+        "book": "Osea"
     },
     {
-        "numar": "29",
-        "carte": "Ioel"
+        "id": "29",
+        "book": "Ioel"
     },
     {
-        "numar": "30",
-        "carte": "Amos"
+        "id": "30",
+        "book": "Amos"
     },
     {
-        "numar": "31",
-        "carte": "Obadia"
+        "id": "31",
+        "book": "Obadia"
     },
     {
-        "numar": "32",
-        "carte": "Iona"
+        "id": "32",
+        "book": "Iona"
     },
     {
-        "numar": "33",
-        "carte": "Mica"
+        "id": "33",
+        "book": "Mica"
     },
     {
-        "numar": "34",
-        "carte": "Naum"
+        "id": "34",
+        "book": "Naum"
     },
     {
-        "numar": "35",
-        "carte": "Habacuc"
+        "id": "35",
+        "book": "Habacuc"
     },
     {
-        "numar": "36",
-        "carte": "Ţefania"
+        "id": "36",
+        "book": "Ţefania"
     },
     {
-        "numar": "37",
-        "carte": "Hagai"
+        "id": "37",
+        "book": "Hagai"
     },
     {
-        "numar": "38",
-        "carte": "Zaharia"
+        "id": "38",
+        "book": "Zaharia"
     },
     {
-        "numar": "39",
-        "carte": "Maleahi"
+        "id": "39",
+        "book": "Maleahi"
     },
     {
-        "numar": "40",
-        "carte": "Matei"
+        "id": "40",
+        "book": "Matei"
     },
     {
-        "numar": "41",
-        "carte": "Marcu"
+        "id": "41",
+        "book": "Marcu"
     },
     {
-        "numar": "42",
-        "carte": "Luca"
+        "id": "42",
+        "book": "Luca"
     },
     {
-        "numar": "43",
-        "carte": "Ioan"
+        "id": "43",
+        "book": "Ioan"
     },
     {
-        "numar": "44",
-        "carte": "Faptele apostolilor"
+        "id": "44",
+        "book": "Faptele apostolilor"
     },
     {
-        "numar": "45",
-        "carte": "Romani"
+        "id": "45",
+        "book": "Romani"
     },
     {
-        "numar": "46",
-        "carte": "1 Corinteni"
+        "id": "46",
+        "book": "1 Corinteni"
     },
     {
-        "numar": "47",
-        "carte": "2 Corinteni"
+        "id": "47",
+        "book": "2 Corinteni"
     },
     {
-        "numar": "48",
-        "carte": "Galateni"
+        "id": "48",
+        "book": "Galateni"
     },
     {
-        "numar": "49",
-        "carte": "Efeseni"
+        "id": "49",
+        "book": "Efeseni"
     },
     {
-        "numar": "50",
-        "carte": "Filipeni"
+        "id": "50",
+        "book": "Filipeni"
     },
     {
-        "numar": "51",
-        "carte": "Coloseni"
+        "id": "51",
+        "book": "Coloseni"
     },
     {
-        "numar": "52",
-        "carte": "1 Tesaloniceni"
+        "id": "52",
+        "book": "1 Tesaloniceni"
     },
     {
-        "numar": "53",
-        "carte": "2 Tesaloniceni"
+        "id": "53",
+        "book": "2 Tesaloniceni"
     },
     {
-        "numar": "54",
-        "carte": "1 Timotei"
+        "id": "54",
+        "book": "1 Timotei"
     },
     {
-        "numar": "55",
-        "carte": "2 Timotei"
+        "id": "55",
+        "book": "2 Timotei"
     },
     {
-        "numar": "56",
-        "carte": "Tit"
+        "id": "56",
+        "book": "Tit"
     },
     {
-        "numar": "57",
-        "carte": "Filimon"
+        "id": "57",
+        "book": "Filimon"
     },
     {
-        "numar": "58",
-        "carte": "Evrei"
+        "id": "58",
+        "book": "Evrei"
     },
     {
-        "numar": "59",
-        "carte": "Iacov"
+        "id": "59",
+        "book": "Iacov"
     },
     {
-        "numar": "60",
-        "carte": "1 Petru"
+        "id": "60",
+        "book": "1 Petru"
     },
     {
-        "numar": "61",
-        "carte": "2 Petru"
+        "id": "61",
+        "book": "2 Petru"
     },
     {
-        "numar": "62",
-        "carte": "1 Ioan"
+        "id": "62",
+        "book": "1 Ioan"
     },
     {
-        "numar": "63",
-        "carte": "2 Ioan"
+        "id": "63",
+        "book": "2 Ioan"
     },
     {
-        "numar": "64",
-        "carte": "3 Ioan"
+        "id": "64",
+        "book": "3 Ioan"
     },
     {
-        "numar": "65",
-        "carte": "Iuda"
+        "id": "65",
+        "book": "Iuda"
     },
     {
-        "numar": "66",
-        "carte": "Apocalipsa"
+        "id": "66",
+        "book": "Apocalipsa"
     }
 ]
