@@ -11,7 +11,8 @@ for (var i = 0; i < VDDC.length; ++i) {
     cVDDC.text = cVDDC.text
         .replace(/<\/?[^>]+(>|$)/g, " ")
         .replace(/\*/g, "")
-        .replace(/  /g, " ");
+        .replace(/  /g, " ")
+        .trim();
 }
 
 // write the fixed json
