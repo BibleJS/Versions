@@ -13,6 +13,10 @@ $ ./build
 
 ## Changelog
 
+### `v0.1.2`
+ - Removed `type` field
+ - Removed titles and related verses
+
 ### `v0.1.1`
  - trim texts
  - fixed a bug from `v0.1.0` about removing HTML tags
