@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IonicaBizau/bible.js"
+    "url": "https://github.com/BibleJS/Versions"
   },
   "dependencies": {
     "csv-to-array": "0.1.0"
@@ -18,7 +18,11 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bible.js/issues"
+    "url": "https://github.com/BibleJS/Versions/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bible.js"
+  "homepage": "https://github.com/BibleJS/Versions",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
