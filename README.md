@@ -13,6 +13,9 @@ $ ./build
 
 ## Changelog
 
+### `v0.1.3`
+ - Updated the GitHub urls in package.json
+
 ### `v0.1.2`
  - Removed `type` field
  - Removed titles and related verses
